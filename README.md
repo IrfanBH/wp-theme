@@ -3,7 +3,7 @@
 Powerful shell for rapidly deploying your WordPress projects.
 
 * Project: [github.com/IrfanBH/vadion](https://github.com/IrfanBH/vadion)
-* Website: [vadion.com](http://vadion.com)
+* Website: [irfanbh.com](http://irfanbh.com)
 * Author : [Irfan Ullah]
 
 
