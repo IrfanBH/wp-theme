@@ -2,7 +2,7 @@
 
 Powerful shell for rapidly deploying your WordPress projects.
 
-* Project: [github.com/IrfanBH/vadion](https://github.com/IrfanBH/vadion)
+* Project: [github.com/IrfanBH/wp-theme](https://github.com/IrfanBH/wp-theme)
 * Website: [irfanbh.com](http://irfanbh.com)
 * Author : [Irfan Ullah]
 
